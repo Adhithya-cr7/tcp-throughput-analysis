@@ -1,7 +1,7 @@
 # TCP Throughput Analysis Under Volumetric Traffic Conditions
 
 **Author:** Adithya Kumar Tummala  
-**Registration Number:** 24BCE1588  
+**Guided By:** Dr. T. Subbulakshmi
 **Institution:** Vellore Institute of Technology (VIT), Chennai  
 
 ---
